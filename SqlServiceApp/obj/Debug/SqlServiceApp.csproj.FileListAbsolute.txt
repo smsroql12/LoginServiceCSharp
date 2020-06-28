@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\bin\Debug\SqlServiceApp.exe
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\bin\Debug\SqlServiceApp.pdb
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\obj\Debug\SqlServiceApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\obj\Debug\SqlServiceApp.Form1.resources
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\obj\Debug\SqlServiceApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\obj\Debug\SqlServiceApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\obj\Debug\SqlServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\obj\Debug\SqlServiceApp.exe
+C:\Users\Admin\source\repos\SqlServiceApp\SqlServiceApp\obj\Debug\SqlServiceApp.pdb
